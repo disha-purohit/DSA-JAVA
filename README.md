@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/disha-purohit/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/disha-purohit/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/disha-purohit/DSA-JAVA/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/disha-purohit/DSA-JAVA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
