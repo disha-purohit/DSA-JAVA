@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/disha-purohit/DSA-JAVA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/disha-purohit/DSA-JAVA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/disha-purohit/DSA-JAVA/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/disha-purohit/DSA-JAVA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/disha-purohit/DSA-JAVA/tree/master/0283-move-zeroes) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
