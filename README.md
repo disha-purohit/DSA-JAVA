@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/disha-purohit/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/disha-purohit/DSA-JAVA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/disha-purohit/DSA-JAVA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/disha-purohit/DSA-JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/disha-purohit/DSA-JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
