@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/disha-purohit/DSA-JAVA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
