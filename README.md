@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/disha-purohit/DSA-JAVA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/disha-purohit/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/disha-purohit/DSA-JAVA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/disha-purohit/DSA-JAVA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/disha-purohit/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/disha-purohit/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/disha-purohit/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/disha-purohit/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
