@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/disha-purohit/DSA-JAVA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/disha-purohit/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/disha-purohit/DSA-JAVA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
@@ -175,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/disha-purohit/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
