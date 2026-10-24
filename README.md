@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/disha-purohit/DSA-JAVA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/disha-purohit/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/disha-purohit/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/disha-purohit/DSA-JAVA/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
