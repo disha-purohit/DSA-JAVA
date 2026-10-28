@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/disha-purohit/DSA-JAVA/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/disha-purohit/DSA-JAVA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
