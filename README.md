@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/disha-purohit/DSA-JAVA/tree/master/0860-lemonade-change) |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
