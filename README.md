@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/disha-purohit/DSA-JAVA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/disha-purohit/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/disha-purohit/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/disha-purohit/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Floyd's Cycle Finding Algorithm
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
