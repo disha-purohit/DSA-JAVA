@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/disha-purohit/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/disha-purohit/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/disha-purohit/DSA-JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/disha-purohit/DSA-JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Floyd's Cycle Finding Algorithm
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/disha-purohit/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/disha-purohit/DSA-JAVA/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
@@ -211,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/disha-purohit/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/disha-purohit/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Newton's Method
