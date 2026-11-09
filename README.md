@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/disha-purohit/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/disha-purohit/DSA-JAVA/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/disha-purohit/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/disha-purohit/DSA-JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/disha-purohit/DSA-JAVA/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/disha-purohit/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/disha-purohit/DSA-JAVA/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/disha-purohit/DSA-JAVA/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/disha-purohit/DSA-JAVA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
