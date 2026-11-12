@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/disha-purohit/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Floyd's Cycle Finding Algorithm
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/disha-purohit/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/disha-purohit/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/disha-purohit/DSA-JAVA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/disha-purohit/DSA-JAVA/tree/master/1021-remove-outermost-parentheses) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/disha-purohit/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/disha-purohit/DSA-JAVA/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
