@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/disha-purohit/DSA-JAVA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/disha-purohit/DSA-JAVA/tree/master/0976-largest-perimeter-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/disha-purohit/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Two Pointers
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/disha-purohit/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/disha-purohit/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/disha-purohit/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/disha-purohit/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/disha-purohit/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/disha-purohit/DSA-JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/disha-purohit/DSA-JAVA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/disha-purohit/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Quicksort
