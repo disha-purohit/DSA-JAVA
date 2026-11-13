@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/disha-purohit/DSA-JAVA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/disha-purohit/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/disha-purohit/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/disha-purohit/DSA-JAVA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/disha-purohit/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/disha-purohit/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/disha-purohit/DSA-JAVA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/disha-purohit/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/disha-purohit/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/disha-purohit/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/disha-purohit/DSA-JAVA/tree/master/0268-missing-number) |
